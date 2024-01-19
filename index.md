@@ -2,7 +2,7 @@
 
 ## Ki vagyok?
 
-Till Nikolettnek hívnak, orosz-magyar fordító.
+Till Nikolettnek hívnak, orosz-magyar fordító vagyok.
 Jelenleg 21 éves vagyok; 2023 júniusában végeztem a Pécsi Tudományegyetemen szlavisztika, azon belül orosz szakon.
 Diplomám megszerzését követően aktívan kerestem munkát: közel egy éve magánúton tanítok Magyarországon élő orosz embereket magyarul, illetve több kisebb projektet fordítottam már le anyanyelvemre.
 
