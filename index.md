@@ -18,6 +18,14 @@ Számos, eredetileg orosz nyelven íródott projektben vettem, illetve veszek r�
 * [Cloud Vision, egy OCR-re képes NVDA kiegészítő](cloudvision.md)
 * [TTMediaBot, egy tartalom streamelés céljából készült bot a TeamTalk programhoz](ttmediabot.md)
 
+## Elérhetőségek
+
+Ha bármi segítségre, egyéb instrukcióra van szükséged, vagy ajánlanál egy jó projektet, az alábbi módokon találsz meg:
+* [Facebook](https://www.facebook.com/till.nikolett/)
+* Skype: till.nikolett
+* E-Mail: tillnikolett@gmail.com
+* [Telegram](https://t.me/destranis)
+
 ## Szeretnél támogatni?
 
 Tevékenységemet jelenleg önkéntes alapon folytatom. Természetesen a legtöbb fejlesztő rendkívül hálás, amint elkészül egy újabb fordítás, ami nekem rengeteget jelent.
