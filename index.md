@@ -18,6 +18,10 @@ Számos, eredetileg orosz nyelven íródott projektben vettem, illetve veszek r�
 * [Cloud Vision, egy OCR-re képes NVDA kiegészítő](cloudvision.md)
 * [TTMediaBot, egy tartalom streamelés céljából készült bot a TeamTalk programhoz](ttmediabot.md)
 
+## Egyéb munkáim
+
+[Hades I menü guide a billentyűparancsok könnyebb megváltoztatásának érdekében](hades_menuguide.md)
+
 ## Elérhetőségek
 
 Ha bármi segítségre, egyéb instrukcióra van szükséged, vagy ajánlanál egy jó projektet, az alábbi módokon találsz meg:
