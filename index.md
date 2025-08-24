@@ -20,7 +20,8 @@ Számos, eredetileg orosz nyelven íródott projektben vettem, illetve veszek r�
 
 ## Egyéb munkáim
 
-[Hades I menü guide a billentyűparancsok könnyebb megváltoztatásának érdekében](hades_menuguide.md)
+* [Hades I menü guide a billentyűparancsok könnyebb megváltoztatásának érdekében](hades_menuguide.md)
+* [Colloquial Dutch, akadálymentes szószedet](colloquial_dutch.md)
 
 ## Elérhetőségek
 
